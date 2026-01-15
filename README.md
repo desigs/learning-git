@@ -8,3 +8,8 @@ Repositorio para aprender Git y GitHub desde cero.
 
 ## Notas
 - Este repo es solo de práctica.
+
+## Notes
+
+- Learning Git step by step
+- Practicing issues, branches and pull requests
